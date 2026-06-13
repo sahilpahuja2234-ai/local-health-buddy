@@ -1,0 +1,6 @@
+@HealthBuddyWebhook_HostAddress = http://localhost:5016
+
+GET {{HealthBuddyWebhook_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
