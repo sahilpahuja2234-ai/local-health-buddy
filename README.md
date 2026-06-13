@@ -6,14 +6,15 @@
 
 ### AI-powered symptom assistant that understands *what* you have **and** *how long* you've had it
 
-[
-[
-[
-[
-[
-[
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-8.0-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Dialogflow](https://img.shields.io/badge/Dialogflow%20ES-FF9800?style=flat&logo=dialogflow&logoColor=white)](https://cloud.google.com/dialogflow)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](https://github.com/)
 
-**[Features](#-features) -  [Demo](#-demo) -  [Tech Stack](#-tech-stack) -  [Setup](#-setup) -  [Architecture](#-architecture) -  [Challenges](#-engineering-challenges)**
+**[Features](#-features) • [Demo](#-demo) • [Tech Stack](#-tech-stack) • [Setup](#-setup) • [Architecture](#-architecture) • [Challenges](#-engineering-challenges)**
+
 
 </div>
 
